@@ -1,7 +1,7 @@
-#Customer relationship management
+# Customer relationship management
 
 
-##Technologies
+## Technologies
 
 Project is created with:
 
@@ -11,13 +11,19 @@ Project is created with:
   - tailwind
 
 ## Previews
+
 Here is some screenshot:
+
 ### Home Page.....
+
 ![home page](https://drive.google.com/uc?export=view&id=1gbHHFL3zSY24JxWf4Vp3go0WTr9iL485)
 
-### Dashboard Page.....</br>
+### Dashboard Page.....
+
 ![dashboard](https://drive.google.com/uc?export=view&id=1sxYxQNNWIuTA5YLARXJEB5tUvvcLdYvp)
-### List Of Lead's Page .....</br>
+
+### List Of Lead's Page .....
+
 ![Lead List](https://drive.google.com/uc?export=view&id=1ePraKDn4v41mRv03y3R6y_7_m6NKLnF5)
 
 ## Setup
